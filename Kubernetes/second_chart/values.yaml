@@ -1,2 +1,5 @@
 deploymentName: ip-app-deployment
 deploymentReplicas: 2
+image:
+  repository: harshajain/ip_app
+  tag: latest
